@@ -1,2 +1,1 @@
-# PaddleDetection_YOLOX
-Paddle YOLOX, based on PaddleDetection
+README_cn.md
