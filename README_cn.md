@@ -24,7 +24,7 @@
 | YOLOX-s     |  640  |   40.5         |  40.4    |[model](https://paddledet.bj.bcebos.com/models/yolox_s_300e_coco.pdparams) | [config](configs/yolox//yolox_s_300e_coco.yml) |
 | YOLOX-m     |  640  |   46.9         |  46.9    |[model](https://paddledet.bj.bcebos.com/models/yolox_m_300e_coco.pdparams) | [config](configs/yolox//yolox_m_300e_coco.yml) |
 | YOLOX-l     |  640  |   49.7         |  50.1    |[model](https://paddledet.bj.bcebos.com/models/yolox_l_300e_coco.pdparams) | [config](configs/yolox//yolox_l_300e_coco.yml) |
-| YOLOX-x     |  640  |   51.1         |  51.4    |[model](https://paddledet.bj.bcebos.com/models/yolox_x_300e_coco.pdparams) | [config](configs/yolox//yolox_x_300e_coco.yml) |
+| YOLOX-x     |  640  |   51.1         |  51.8    |[model](https://paddledet.bj.bcebos.com/models/yolox_x_300e_coco.pdparams) | [config](configs/yolox//yolox_x_300e_coco.yml) |
 
 ===============================================================
 
