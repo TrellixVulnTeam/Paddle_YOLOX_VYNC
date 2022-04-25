@@ -10,7 +10,7 @@
 | YOLOX-s        |  640     |    8      |   300e    |     ----    |  40.4  | [下载链接](https://paddledet.bj.bcebos.com/models/yolox_s_300e_coco.pdparams) | [配置文件](./yolox_s_300e_coco.yml) |
 | YOLOX-m        |  640     |    8      |   300e    |     ----    |  46.9  | [下载链接](https://paddledet.bj.bcebos.com/models/yolox_m_300e_coco.pdparams) | [配置文件](./yolox_m_300e_coco.yml) |
 | YOLOX-l        |  640     |    8      |   300e    |     ----    |  50.1  | [下载链接](https://paddledet.bj.bcebos.com/models/yolox_l_300e_coco.pdparams) | [配置文件](./yolox_l_300e_coco.yml) |
-| YOLOX-x        |  640     |    8      |   300e    |     ----    |  51.4  | [下载链接](https://paddledet.bj.bcebos.com/models/yolox_x_300e_coco.pdparams) | [配置文件](./yolox_x_300e_coco.yml) |
+| YOLOX-x        |  640     |    8      |   300e    |     ----    |  51.8  | [下载链接](https://paddledet.bj.bcebos.com/models/yolox_x_300e_coco.pdparams) | [配置文件](./yolox_x_300e_coco.yml) |
 
 **注意:**
   - 以上模型默认采用8 GPUs训练，总batch_size为64，均训练300 epochs；
